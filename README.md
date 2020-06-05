@@ -1,6 +1,6 @@
 # connected_cars_uduria
 
-First Flutter App for Uduria corp,  smart cities connected cars application
+First Flutter App for Uduria comp,  smart cities connected cars application
 
 ## Getting Started
 
